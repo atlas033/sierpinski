@@ -1,4 +1,4 @@
 # Sierpinksi Triangle
-small C# Program that i made for university homework
+Small C# Program that i made for university homework.
 
-press right and left Arrowkeys to change Recursionlevel
+Press right and left arrowkeys to change the level of recursion.
